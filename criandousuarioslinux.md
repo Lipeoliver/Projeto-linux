@@ -1,4 +1,4 @@
-#!/bin/bash
+s#!/bin/bash
 echo "criando diretorios"
 
 mkdir /adm
